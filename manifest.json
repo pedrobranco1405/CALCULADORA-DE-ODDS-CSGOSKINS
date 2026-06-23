@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "CSGO-SKINS Odds Calculator",
+  "version": "0.1.5",
+  "description": "Calcula chance de lucro, empate e perda nas caixas do csgo-skins.com.",
+  "content_scripts": [
+    {
+      "matches": ["https://csgo-skins.com/case/*"],
+      "js": ["content-script.js"],
+      "css": ["styles.css"],
+      "run_at": "document_idle"
+    }
+  ]
+}
