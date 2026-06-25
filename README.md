@@ -13,7 +13,7 @@ Ela tambem mostra valor esperado, EV e retorno percentual. Antes de calcular, a 
 1. Abra `chrome://extensions` ou `edge://extensions`.
 2. Ative o modo de desenvolvedor.
 3. Clique em "Carregar sem compactacao".
-4. Selecione esta pasta: `C:\Users\"User"\Desktop\extensaogrind`.
+4. Selecione esta pasta: `C:\Users\"User"\Desktop\CALCULADORA-DE-ODDS-CSGOSKINS-main`.
 5. Abra uma pagina como `https://csgo-skins.com/case/low-case`.
 
 ## Observacoes
